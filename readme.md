@@ -1,11 +1,11 @@
 
 
-# Details about Dice Roller!
+# SnwPlw
 
 ## Resources available
 
-  * Main language used: Dart, C
-  * Other technologies used: Mobile Application Development
+  * Main language used: Python
+  * Other technologies used: Firefox
 
 ## Resources available
 
@@ -31,7 +31,7 @@
 
 ## Workspace setup
 
-  * Android Studio w/ the Flutter Framework is necessary to work on this project.
+  * Visual studio code is used by the team - Feel free to use whatever IDE you like!
 
 ## Code documentation
   
