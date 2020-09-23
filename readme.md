@@ -42,6 +42,7 @@
 ## Submitting your contribution
 
   * Submitting is easy! Just follow these simple steps :)
+  
  1.) Find issue in the issue tracker
  
  2.) Comment "Im working on this!"
