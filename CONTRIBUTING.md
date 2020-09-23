@@ -8,5 +8,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 ## Pull Request Process
 
 1.) Ensure the project owners know you what you are working on and why before attempting a Pull Request. 
+
 2.) Ensure that your code is fully operational and tested. 
+
 3.) The Pull Request can be merged upon two peer reviews.
