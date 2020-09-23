@@ -2,12 +2,12 @@
 
 # Details about Dice Roller!
 
-## Resources available (URLs)
+## Resources available
 
   * Main language used: Dart, C
   * Other technologies used: Mobile Application Development
 
-## Resources available (URLs)
+## Resources available
 
   * Homepage: https://github.com/NAU-OSS/Group-1
   * Contribution guide: https://github.com/NAU-OSS/Group-1/blob/master/CONTRIBUTING.md
