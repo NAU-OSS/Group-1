@@ -1,6 +1,6 @@
 # SnwPlw
 
-* SnwPlow (Snowplow) is a web exention that allows easy maintenence for clearing web caches in a easy and maintainable way. Our extension allows users direct access to sites to which sites they wish to clear, and plows all data they dont want to the side! This extension is currently only available on Firefox and Chrome! Happy contributing 🥳🎉
+SnwPlow (Snowplow) is a open source and free web exention that allows easy maintenence for clearing web caches in a easy and maintainable way. Our vision is to promote a safe and free internet. Our extension allows users direct access to sites to which sites they wish to clear or block, and plows all data they dont want to the side! This extension is currently only available on Firefox and Chrome! Happy contributing 🥳🎉
 ## Resources available
 
   * Main language used: Python
