@@ -43,9 +43,13 @@
 
   * Submitting is easy! Just follow these simple steps :)
  1.) Find issue in the issue tracker
+ 
  2.) Comment "Im working on this!"
+ 
  3.) Make your changes (Be sure to make unit tests and documentation!)
+
 4.) Submit pull request
+
 5.) All PR's require 10 approvals to be accepted!
  
     
